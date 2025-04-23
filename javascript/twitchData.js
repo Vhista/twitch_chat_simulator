@@ -6,7 +6,7 @@ var usernamePrefixes = [
 
 var usernameSuffixes = [
     "Kappa", "Sniper", "marshmellow", "Shrek", "M", "LUL", "Games", "HD", "lolo",
-    "_yolo", "QQ", "stone", "Trump", "xD", "meister", "eric", "james", "loser",
+    "_yolo", "QQ", "stone",  "xD", "meister", "eric", "james", "loser",
     "haha", "noob", "dude", "Bro", "shotgun", "DADDY", "OneTaps", "winner",
     "xx", "pepe", "explosion", "easy", "Nut", "000", "Biceps", "gamer", "Majestic",
     "zzzzz", "vortex", "sound", "tv"];
