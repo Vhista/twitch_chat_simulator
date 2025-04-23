@@ -260,9 +260,9 @@ function makeSettings()
     positiveSpam.attr("value", "positive");
     positiveSpam.append("Positive (CS)");
 
-    var positiveSpam = $('<option></option>');
-    positiveSpam.attr("value", "w");
-    positiveSpam.append("W Spam");
+    var wSpam = $('<option></option>');
+    wSpam.attr("value", "w");
+    wSpam.append("W Spam");
     
     var negativeSpam = $('<option></option>');
     negativeSpam.attr("value", "negative");
