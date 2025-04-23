@@ -19,7 +19,7 @@ var positiveMessages = [
     "ez", "GG", "Kappa", "4Head", "WHAT", "PogChamp", "PogChamp PogChamp PogChamp PogChamp PogChamp",
     "KQLY STYLE", "ANY NAFFERS SeriousSloth", "Kreygasm", "Pog", "PogU", "CatJam", "PogU Clap",
     "5Head", "300 IQ", "Jebaited", "FeelsGoodMan", "<3"];
-var wMessages = ["W"];
+var wMessages = ["Pog w","PogU w","W"];
 var negativeMessages = [
     "BOT", "BOT", "BOT", "BOT", "BOT", "NA CS", "NA CS", "WTF",
     "LUL", "HAHAHAHA", "OMG", "LMAO", "so bad omg", "xD", "gg", "RUINED", "Kappa", "WutFace",
