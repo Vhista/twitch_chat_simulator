@@ -42,6 +42,8 @@ function getMessage()
         msgBody = (laughingMessages[Math.floor(Math.random()*laughingMessages.length)]);
     else if(spamType=="spam")
         msgBody = (spamMessages[Math.floor(Math.random()*spamMessages.length)]);
+    else if(spamType=="w")
+        msgBody = (wMessages[Math.floor(Math.random()*wMessages.length)]);
 
     msgBody = replace_emotes(msgBody);
 
